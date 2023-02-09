@@ -1,0 +1,16 @@
+id: IAD3F3CA4
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:11:45.031850
+last_modified: 2023-02-10 00:11:45.032078
+source_metadata:
+  title: 'MSV 6,00: Uttaragrantha 2'
+  language: bo
+bases:
+  4D5A:
+    base_file: 4D5A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
